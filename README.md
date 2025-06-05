@@ -24,7 +24,6 @@ This repository isn't just a showcase — it's a reflection of my journey throug
 | 📰 [News Research Tool](https://github.com/Aashifaabdul/GENAI/tree/main/Equity%20Research%20Tool) | Extracts answers from news articles based on user queries using LangChain + Ollama. |
 | 🍽️ [Restaurant Name Generator](https://github.com/Aashifaabdul/GENAI/tree/main/Restaurant%20Name%20Generator) | Generates creative restaurant names and themed menus by cuisine type. |
 | 🧾 [FlashLearn](https://github.com/Aashifaabdul/FlashLearn-Smart-Study-Assistant) | Summarizes paragraphs and turns them into flashcards using LLMs. |
-| 🌙 [Lunar Lander DQN](https://github.com/Aashifaabdul/GENAI/tree/main/Deep%20Q%20learning) | Trains an AI agent to land safely on the moon using Deep Q-Learning and OpenAI Gym. |
 | 📚 More Projects Coming... | Stay tuned as I add more cool stuff! |
 
 
